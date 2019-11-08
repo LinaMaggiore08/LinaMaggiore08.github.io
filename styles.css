@@ -77,6 +77,7 @@ nav a {
   width: 100%;
   background-image: url("https://raw.githubusercontent.com/LinaMaggiore08/LinaMaggiore08.github.io/master/tech.jpeg");
   background-size: cover;
+  overflow: visible;
 }
 
  #slogan .slogan  {
