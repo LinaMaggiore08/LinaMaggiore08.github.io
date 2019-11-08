@@ -75,7 +75,7 @@ nav a {
    margin-top: 59px;
    padding: 7em 0;
   width: 100%;
-  background-image: url(LinaMaggiore08.github.io/tech.jpeg);
+  background-image: url("LinaMaggiore08.github.io/tech.jpeg");
   Background-size: cover;
 }
 
