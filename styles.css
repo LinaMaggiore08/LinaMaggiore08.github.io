@@ -1,0 +1,203 @@
+@import url('https://fonts.googleapis.com/css?family=Poiret+One&display=swap');
+
+* {
+  box-sizing: border-box;
+
+}
+
+body {
+  margin: 0;
+  font-family: 'Poiret One' , sans-serif;
+  text-align: center;
+  overflow-y: scroll;
+}
+
+/*header*/
+
+ .logo {
+   background-color: #383434;
+  position: fixed;
+  top:0px;
+  left:0px;
+  padding: 1em;
+  z-index:10 ;
+}
+
+header {
+  background-color: #383434;
+  margin: 0 auto;
+ position: fixed;
+ top: 0px;
+ right: 0px;
+ padding: .43em;
+ width: 370px;
+ text-align: right;
+ z-index: 10
+}
+
+nav ul {
+  margin: 0 auto;
+  padding: 0;
+  list-style: none;
+
+}
+
+nav li {
+  display: inline-block;
+  margin: 1em;
+  margin-top: .7em;
+
+}
+
+nav a {
+  font-weight: 900;
+  color: #38f2dc;
+  text-decoration: none;
+  text-transform: uppercase;
+  font-size: 15px;
+  padding: 1em;
+}
+
+.space {
+  position: absolute;
+  top: 0;
+  right: 350px;
+  margin:0;
+  color: #383434;
+  background-color: #383434;
+  height: 59px;
+  display: inline-block;
+}
+
+/*Home hero*/
+
+ .home-hero{
+   margin-top: 59px;
+   padding: 7em 0;
+  width: 100%;
+  background-image: url(../linas_website/lina.img/tech.jpeg);
+  Background-size: cover;
+}
+
+ #slogan .slogan  {
+   border-radius: medium;
+   border-color: #38f2dc;
+   border-style: solid;
+   position: relative;
+   margin: 100px auto;
+   width: 800px;
+   padding-top: 2em;
+   padding-bottom: 2em;
+   color: #38f2dc;
+   font-size: 45px;
+   z-index: 1;
+}
+
+/*about hero*/
+
+.about-hero{
+  margin-top: 59px;
+  padding: 7em 0;
+ width: 100%;
+ background-image: url(../linas_website/lina.img/tech3.jpeg);
+ Background-size: cover;
+}
+
+#slogan .slogan  {
+  border-radius: medium;
+  border-color: #38f2dc;
+  border-style: solid;
+  position: relative;
+  margin: 100px auto;
+  width: 800px;
+  padding-top: 2em;
+  padding-bottom: 2em;
+  color: #38f2dc;
+  font-size: 45px;
+  z-index: 1;
+}
+
+/*contact hero*/
+
+.contact-hero{
+  margin-top: 59px;
+  padding: 7em 0;
+ width: 100%;
+ background-image: url(../linas_website/lina.img/tech4.jpeg);
+ Background-size: cover;
+}
+
+#slogan .slogan  {
+  border-radius: medium;
+  border-color: #38f2dc;
+  border-style: solid;
+  position: relative;
+  margin: 100px auto;
+  width: 800px;
+  padding-top: 2em;
+  padding-bottom: 2em;
+  color: #38f2dc;
+  font-size: 45px;
+  z-index: 1;
+}
+/*main for home*/
+
+.work h1 {
+  padding: .5em;
+  margin: 0;
+  color: #38f2dc;
+  font-size: 40px;
+  text-decoration: underline;
+  background-color: #383434;
+}
+
+figure {
+  margin: 0;
+  padding-top: 2em;
+  background-color: #383434;
+}
+.sophiepic {
+  border-radius: medium;
+  border-color: #38f2dc;
+  border-style: solid;
+  background-color: #383434;
+}
+
+.sophiecap a{
+  color: #38f2dc;
+  text-decoration: none;
+  font-size: 25px;
+}
+
+/*main for about*/
+
+.aboutme h1 {
+  padding: .5em;
+  margin: 0;
+  color: #38f2dc;
+  font-size: 40px;
+  text-decoration: underline;
+  background-color: #383434;
+}
+
+/*main for contact*/
+
+.contactme h1 {
+  padding: .5em;
+  margin: 0;
+  color: #38f2dc;
+  font-size: 40px;
+  text-decoration: underline;
+  background-color: #383434;
+}
+
+/*footer*/
+
+footer {
+  margin: 0;
+  padding: 1em;
+  background-color: #383434;
+  color: #383434;
+}
+
+}
