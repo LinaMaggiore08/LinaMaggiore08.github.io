@@ -59,7 +59,7 @@ nav a {
 }
 
 .space {
-  length: 100%;
+  width: 100%;
   position: absolute;
   top: 0;
   right: 350px;
