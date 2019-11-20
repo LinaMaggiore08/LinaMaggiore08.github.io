@@ -75,6 +75,7 @@ nav a {
  .home-hero{
    margin-top: 59px;
    padding: 7em 0;
+   length:100%;
   width: 100%;
   background-image: url("https://raw.githubusercontent.com/LinaMaggiore08/LinaMaggiore08.github.io/master/tech.jpeg");
   background-size: cover;
@@ -99,6 +100,7 @@ nav a {
 .about-hero{
   margin-top: 59px;
   padding: 7em 0;
+  length:100%;
  width: 100%;
  background-image: url("https://raw.githubusercontent.com/LinaMaggiore08/LinaMaggiore08.github.io/master/tech3.jpeg");
  Background-size: cover;
@@ -123,6 +125,7 @@ nav a {
 .contact-hero{
   margin-top: 59px;
   padding: 7em 0;
+  length:100%;
  width: 100%;
  background-image: url("https://raw.githubusercontent.com/LinaMaggiore08/LinaMaggiore08.github.io/master/tech4.jpeg");
  Background-size: cover;
